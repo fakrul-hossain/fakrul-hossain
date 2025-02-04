@@ -9,10 +9,12 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🔥 Passionate about building **scalable** and **efficient** web applications.
-- 🎯 Currently working on **Shubho Porinoy** – A Matrimony Platform (MERN Stack).
-- 🚀 Exploring **Next.js** & **GraphQL** for modern web development.
-- 💡 Love contributing to **open-source projects** and learning new technologies.
+# 🌟 Fakrul Hossain | Full Stack Developer  
+
+![Banner](https://your-banner-image-url.com)  
+
+## 👋 About Me  
+I am Fakrul Hossain, a passionate Full Stack Developer with expertise in building modern web applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. My goal is to develop high-quality and efficient solutions that make a difference.
 
 ---
 
