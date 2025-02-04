@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://i.ibb.co.com/ym7XpZfy/github-header-image-1.png" alt="GitHub Banner">
 </p>
-
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 <h3 align="center">A Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
 
 ---
