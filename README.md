@@ -4,12 +4,6 @@
 </p>
 <h3 align="center">A Passionate Full Stack Developer | MERN Stack Enthusiast</h3>
 
----
-
-### 👨‍💻 **About Me**
-# 🌟 Fakrul Hossain | Front-End Developer  
-
-
 ## 👋 About Me  
 I am Fakrul Hossain, a passionate Full Stack Developer with expertise in building modern web applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. My goal is to develop high-quality and efficient solutions that make a difference.
 
