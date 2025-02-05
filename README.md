@@ -62,7 +62,7 @@ I am Fakrul Hossain, a passionate Full Stack Developer with expertise in buildin
 
 ### 📊 *GitHub Stats*
 <p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakrul-hossain&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
