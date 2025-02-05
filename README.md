@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-# 🌟 Fakrul Hossain | Font-End Developer  
+# 🌟 Fakrul Hossain | Front-End Developer  
 
 
 ## 👋 About Me  
