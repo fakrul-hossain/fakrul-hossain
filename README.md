@@ -7,6 +7,10 @@
 ## 👋 About Me  
 I am Fakrul Hossain, a passionate Full Stack Developer with expertise in building modern web applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. My goal is to develop high-quality and efficient solutions that make a difference.
 
+🎓 **Educational Background**  
+- 🎓 Completed **Diploma in Computer Science & Engineering**  
+- 📚 Currently pursuing **BSc in Computer Science & Engineering** 
+
 ---
 
 ### 🚀 **What I'm Currently Doing**
