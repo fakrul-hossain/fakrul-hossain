@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-# 🌟 Fakrul Hossain | Full Stack Developer  
+# 🌟 Fakrul Hossain | Font-End Developer  
 
 
 ## 👋 About Me  
@@ -95,5 +95,4 @@ I am Fakrul Hossain, a passionate Full Stack Developer with expertise in buildin
 
 ### 📩 **Let's Connect & Collaborate!**
 💬 Feel free to **reach out** for collaborations, discussions, or just to say hi!  
-📧 **Email**: [your.email@example.com](dev.fakrulhossain@gmail.com
-)  
+📧 **Email**: [dev.fakrulhossain@gmail.com]
