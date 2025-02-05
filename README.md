@@ -9,7 +9,6 @@
 ### 👨‍💻 **About Me**
 # 🌟 Fakrul Hossain | Full Stack Developer  
 
-![Banner](https://your-banner-image-url.com)  
 
 ## 👋 About Me  
 I am Fakrul Hossain, a passionate Full Stack Developer with expertise in building modern web applications. I enjoy solving complex problems and continuously learning new technologies to enhance my skills. My goal is to develop high-quality and efficient solutions that make a difference.
@@ -79,11 +78,11 @@ I am Fakrul Hossain, a passionate Full Stack Developer with expertise in buildin
 ---
 
 ### 🌟 **Featured Projects**
-- 🚀 **[Shubho Porinoy - Matrimony Platform](https://github.com/yourgithub/shubho-porinoy)**  
+- 🚀 **[Shubho Porinoy - Matrimony Platform](https://crowd-cube-fakrul-hossain.netlify.app/)**  
   **Tech Stack**: MERN Stack | Tailwind CSS | JWT | Stripe  
-  *A user-friendly matrimony platform with premium biodata features.*
+  *A user-friendly Donations platform.*
 
-- 📌 **[Portfolio Website](https://github.com/yourgithub/portfolio)**  
+- 📌 **[Portfolio Website](https://study-sphere-fakrul.netlify.app/)**  
   **Tech Stack**: React | Next.js | Framer Motion  
   *A sleek portfolio showcasing my skills & projects.*
 
@@ -96,4 +95,5 @@ I am Fakrul Hossain, a passionate Full Stack Developer with expertise in buildin
 
 ### 📩 **Let's Connect & Collaborate!**
 💬 Feel free to **reach out** for collaborations, discussions, or just to say hi!  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email**: [your.email@example.com](dev.fakrulhossain@gmail.com
+)  
