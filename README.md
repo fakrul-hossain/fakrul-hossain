@@ -12,6 +12,14 @@ I am Fakrul Hossain, a passionate Full Stack Developer with expertise in buildin
 - 📚 Currently pursuing *BSc in Computer Science & Engineering* 
 
 ---
+💼 *Experience*  
+- **Frontend Developer Intern** @ *MaxSOP* (June 2022 - Dec 2022, *On-site*)  
+  - Worked on various frontend projects using **React.js** and **JavaScript**.
+  - Built reusable UI components and optimized performance.
+  - Collaborated with backend developers to integrate REST APIs.
+  - Improved page speed and SEO for better user experience.
+
+  ---
 
 ### 🚀 *What I'm Currently Doing*
 - 💼 Working on *Shubho Porinoy* (MERN Stack Matrimony Platform)
