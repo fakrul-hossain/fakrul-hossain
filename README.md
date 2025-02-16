@@ -17,7 +17,6 @@ I am Fakrul Hossain, a passionate Full Stack Developer with expertise in buildin
   - Worked on various frontend projects using **React.js** and **JavaScript**.
   - Built reusable UI components and optimized performance.
   - Collaborated with backend developers to integrate REST APIs.
-  - Improved page speed and SEO for better user experience.
 
   ---
 
